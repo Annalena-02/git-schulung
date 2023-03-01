@@ -6,5 +6,3 @@ Some text
 more text
 
 mmmmmm
-
-noch mehr text
