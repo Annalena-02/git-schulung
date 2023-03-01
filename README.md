@@ -1,4 +1,6 @@
 # git-schulung
 Some text 
 
-Some text on new branch
+Some text 
+
+more text
